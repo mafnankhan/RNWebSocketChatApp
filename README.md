@@ -1,4 +1,4 @@
-# MultiQ
+# React Native Chat App
 
 Chat App in react native using Websocket
 
